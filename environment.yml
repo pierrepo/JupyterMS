@@ -1,0 +1,12 @@
+name: JupyterMS
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pyteomics
+  - vaex
+  - ipywidgets
+  - jupyter
+

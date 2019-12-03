@@ -1,0 +1,9 @@
+# Python import cache
+__pycache__/
+
+# Jupyter notebook
+.ipynb_checkpoints
+
+# Large mzML files
+data/*.mzML
+
