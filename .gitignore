@@ -4,6 +4,6 @@ __pycache__/
 # Jupyter notebook
 .ipynb_checkpoints
 
-# Large mzML files
+# Potentially large spectrometry files
 data/*.mzML
-
+data/*.idXML
