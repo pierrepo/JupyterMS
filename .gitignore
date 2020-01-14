@@ -7,3 +7,7 @@ __pycache__/
 # Potentially large spectrometry files
 data/*.mzML
 data/*.idXML
+notebooks/*.mzML
+# HDF5 files
+notebooks/*.h5
+notebooks/*.hdf5
