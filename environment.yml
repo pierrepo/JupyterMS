@@ -9,6 +9,9 @@ dependencies:
   - vaex
   - ipywidgets
   - jupyter
+  - pytables
+  - pyarrow>=0.15
+  - seq-to-first-iso
   - pip :
     - pyopenms
 
