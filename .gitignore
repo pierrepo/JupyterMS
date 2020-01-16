@@ -8,7 +8,7 @@ __pycache__/
 data/*.mzML
 !data/Q1_5_truncated.mzML
 data/*.idXML
-!data
+!data/1937004_Q1_5.idXML
 notebooks/*.mzML
 # HDF5 files
 notebooks/*.h5
